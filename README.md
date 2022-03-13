@@ -5,10 +5,15 @@ The structure of the dataset is as follows：
 
 IRTSTD1k
       --IRTSTD1k_Img
+      
       --IRTSTD1k_Label
+      
       --trainvaltest
+      
       --trainval
+      
       --test
+      
 Note:
 
 IRTSTD1k_Img contains 10001 infrared images
