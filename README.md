@@ -4,6 +4,7 @@ CVPR2022 ''ISNet: Shape Matters for Infrared Small Target Detection''
 The structure of the dataset is as follows：
 
 IRTSTD1k
+
       --IRTSTD1k_Img
       
       --IRTSTD1k_Label
