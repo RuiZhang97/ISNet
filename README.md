@@ -9,7 +9,11 @@ IRTSTD1k
       --test
 Note:
 IRTSTD1k_Img contains 10001 infrared images
+
 IRTSTD1k_Label contains 10001 labels for IRTSTD1k_Img
+
 trainvaltest contains an index of all the pictures
+
 trainval contains an index of train and val
+
 test contains an index of test
