@@ -5,7 +5,8 @@ IRSTD-1k is the dataset provided by the paper.
 
 The structure of the dataset is as follows：
 
---IRTSTD-1k
+
+-- IRTSTD-1k
 
       --IRTSTD-1k_Img
       
