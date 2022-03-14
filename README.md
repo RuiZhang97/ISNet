@@ -4,7 +4,7 @@ CVPR2022 ''ISNet: Shape Matters for Infrared Small Target Detection''
 IRSTD-1k is the dataset provided by the paper.
 
 The structure of the dataset is as follows：
-
+___________________________________________________________________________________
 
 -- IRTSTD-1k
 
@@ -17,7 +17,7 @@ The structure of the dataset is as follows：
       --trainval
       
       --test
-      
+___________________________________________________________________________________
 Note:
 
 IRTSTD-1k_Img contains 10001 infrared images
