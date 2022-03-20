@@ -1,5 +1,6 @@
 # IRSTD-1k
-# The dataset of CVPR2022 ''ISNet: Shape Matters for Infrared Small Target Detection''
+# The official dataset of CVPR2022 paper ISNet
+====================================================
 
 CVPR2022 ''ISNet: Shape Matters for Infrared Small Target Detection''
 
