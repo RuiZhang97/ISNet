@@ -35,7 +35,7 @@
 ***
 ><h3><strong><i>:postbox: News</i></strong></h3>
 >
-> [2022-3-20]: Publish the dataset [<strong>IRSTD-1k</strong>](#ppt-setting-and-p3m-10k-dataset) (the <strong>largest</strong> realistic infrared small target detection dataset, which con-sists of <strong>1001</strong> manually labeled realistic images with various target shapes, different target sizes, and rich clutter back-grounds from diverse scenes.), the train code and the test code will come soon. 
+> [2022-3-20]: Publish the dataset [<strong>IRSTD-1k</strong>](#ppt-setting-and-p3m-10k-dataset) (the <strong>largest</strong> realistic infrared small target detection dataset, which consists of <strong>1,001</strong> manually labeled realistic images with various target shapes, different target sizes, and rich clutter back-grounds from diverse scenes.), the train code and the test code will come soon. 
 > 
 
 [//]: # (> [2021-12-06]: Publish the face mask of the training set and P3M-500-P validation set of [<strong>P3M-10k</strong>]&#40;#ppt-setting-and-p3m-10k-dataset&#41; dataset.)
