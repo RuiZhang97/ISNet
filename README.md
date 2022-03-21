@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<a href=""> <img  src="https://img.shields.io/badge/license-MIT-blue"></a>
+<a href=""> <img      src="https://img.shields.io/badge/license-MIT-blue"></a>
 </p>
 
 <h4 align="center">This is the official repository of the paper ''ISNet: Shape Matters for Infrared Small Target Detection''</a>.</h4>
