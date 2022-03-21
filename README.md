@@ -8,7 +8,7 @@
 <h4 align="center">This is the official repository of the paper ''ISNet: Shape Matters for Infrared Small Target Detection''</a>.</h4>
 
 
-<h5 align="center"><em>Mingjing Zhang<sup>&#8727;</sup>, Rui Zhang<sup>&#8727;</sup>, Yuxiang Yang, Haichen Bai, Jing Zhang, and Jie Guo</em></h5>
+<h5 align="center"><em>Mingjing Zhang, Rui Zhang<sup>&#8727;</sup>, Yuxiang Yang, Haichen Bai, Jing Zhang<sup>&#8727;</sup>, and Jie Guo</em></h5>
 
 [//]: # (<p align="center">)
 
