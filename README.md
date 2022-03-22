@@ -42,7 +42,7 @@
 > 
 > | Dataset | <p>Dataset Link<br>(Google Drive)</p> | <p>Dataset Link<br>(Baidu Wangpan 百度网盘)</p> |       Dataset Release Agreement              |
 >| :----:| :----: |:----------------------------------------------------------------------------------------------------------------------:| :----: | 
->|IRSTD-1k|[Link](https://drive.google.com/file/d/1QxUJrgBjzHbIFMXA-Cu9y56twzUTf-ZH/view?usp=sharing)|[Link](链接：https://pan.baidu.com/s/11U_YnvGXMeOpp68k054qtg?pwd=4hrf) (pw: 4hrf)|                                               [Agreement (MIT License)]                                                |
+>|IRSTD-1k|[Link](https://drive.google.com/file/d/1QxUJrgBjzHbIFMXA-Cu9y56twzUTf-ZH/view?usp=sharing)|[Link](https://pan.baidu.com/s/11U_YnvGXMeOpp68k054qtg?pwd=4hrf) (pw: 4hrf)|                                               [Agreement (MIT License)]                                                |
 
 [//]: # (>|P3M-10k facemask &#40;optional&#41;|[Link]&#40;https://drive.google.com/file/d/1I-71PbkWcivBv3ly60V0zvtYRd3ddyYs/view?usp=sharing&#41;|[Link]&#40;https://pan.baidu.com/s/1D9Kj_OIJbFTsqWfbMPzh_g&#41; &#40;pw: f772&#41;|[Agreement &#40;MIT License&#41;]&#40;https://jizhizili.github.io/files/p3m_dataset_agreement/P3M-10k_Dataset_Release_Agreement.pdf&#41;| )
 >
