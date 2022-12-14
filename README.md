@@ -52,7 +52,11 @@
 ><h3><strong><i>Code is available:</i></strong></h3>
 
 ><h3><strong><i>Step: 1</i></strong></h3>
-> Install packages with requirements.txt
+> 1.Install packages with requirements.txt
+> 
+> 2.Download IRSTD-1k and put it to ./IRSTD-1k
+> 
+> 3.Download sirst and put it to ./sirst-master
 ><h3><strong><i>Step: 2</i></strong></h3>
 > 1.Install DCNv2(please refer to https://github.com/jinfagang/DCNv2_latest)
 > 
