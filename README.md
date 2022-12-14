@@ -49,3 +49,5 @@
 
 [//]: # (> [2021-11-20]: Publish the <a href="#inference-code---how-to-test-on-your-images">inference code</a> and the pretrained model &#40;[Google Drive]&#40;https://drive.google.com/uc?export=download&id=1smX2YQGIpzKbfwDYHAwete00a_YMwoG1&#41; | [Baidu Wangpan &#40;pw: 2308&#41;]&#40;https://pan.baidu.com/s/1zGF3qnnD8qpI-Z5Nz0TDGA&#41;&#41; that can be used to test on your own privacy-preserving or normal portrait images. Some test results on P3M-10k can be viewed from this [demo page]&#40;https://github.com/JizhiziLi/P3M/tree/master/demo&#41;.)
 
+!!!!
+Code is available at master-branch
